@@ -1,0 +1,155 @@
+.hero[data-v-68ca8299] {
+    background: url(../img/carrousel-background.16cf9146.png);
+    background-size: 100% 100%
+}
+
+.q-carousel[data-v-68ca8299] {
+    min-height: inherit;
+    min-width: inherit
+}
+
+#aovivo[data-v-68ca8299] {
+    border-left: 3px solid #fff;
+    height: 49.8vw;
+    max-height: 80.8vh
+}
+
+#aovivo p[data-v-68ca8299] {
+    font-size: 5vw
+}
+
+#vertical[data-v-68ca8299] {
+    border-left: 3px solid #000;
+    font-size: 5vw;
+    height: 49.8vw;
+    max-height: 80.8vh
+}
+
+.vertical-text[data-v-68ca8299] {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg)
+}
+
+.vertical-text2[data-v-68ca8299],
+.vertical-text[data-v-68ca8299] {
+    -webkit-text-orientation: mixed;
+    text-orientation: mixed;
+    writing-mode: vertical-rl
+}
+
+.projeto-header p[data-v-68ca8299] {
+    color: #df71ff;
+    font-size: 3em
+}
+
+.projeto-header2 p[data-v-68ca8299] {
+    color: #00d3de;
+    font-size: 3em
+}
+
+.projeto-left[data-v-68ca8299] {
+    background-color: #8b50ff
+}
+
+.projeto-right[data-v-68ca8299] {
+    background-color: #df71ff;
+    font-size: 1.4rem
+}
+
+.projeto-subheader[data-v-68ca8299] {
+    color: #fff;
+    font-size: 3.5rem
+}
+
+.bluegreat[data-v-68ca8299] {
+    color: #00d3de;
+    font-weight: 700;
+    text-shadow: 1px 1px #000
+}
+
+.bgpurple[data-v-68ca8299],
+.mundo[data-v-68ca8299],
+.projeto2[data-v-68ca8299] {
+    background-color: #8b50ff
+}
+
+.purple[data-v-68ca8299] {
+    color: #8b50ff
+}
+
+.eixos[data-v-68ca8299] {
+    background-color: #df71ff
+}
+
+.color-primary[data-v-68ca8299] {
+    color: #00d3de
+}
+
+.magenta[data-v-68ca8299] {
+    color: #ff4aa1
+}
+
+.color-secondary[data-v-68ca8299],
+.pink[data-v-68ca8299] {
+    color: #df71ff
+}
+
+.bgpink[data-v-68ca8299] {
+    background-color: #df71ff
+}
+
+.fill-text[data-v-68ca8299] {
+    font-size: 1.5vw
+}
+
+.green[data-v-68ca8299] {
+    color: green
+}
+
+#rounder[data-v-68ca8299] {
+    background-color: #df71ff;
+    border-radius: 75px 75px;
+    padding: 35px;
+    text-align: center
+}
+
+.yellow[data-v-68ca8299] {
+    color: #ffd433
+}
+
+.bgyellow[data-v-68ca8299] {
+    background-color: #ffd433
+}
+
+#rounder2[data-v-68ca8299] {
+    background-color: #e44d96;
+    border-radius: 75px 75px;
+    max-width: 20%;
+    padding: 20px;
+    text-align: center
+}
+
+#rounder3[data-v-68ca8299] {
+    background-color: #fff;
+    border-radius: 75px 75px;
+    text-align: center
+}
+
+.bgmagenta[data-v-68ca8299] {
+    background-color: #e44d96
+}
+
+.ultralarge[data-v-68ca8299] {
+    font-size: 12rem;
+    line-height: 1
+}
+
+.ultralarge2[data-v-68ca8299] {
+    font-size: 10rem;
+    line-height: 1
+}
+
+.mycard[data-v-68ca8299] {
+    max-width: 250px;
+    min-width: 250px
+}

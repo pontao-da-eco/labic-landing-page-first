@@ -1,0 +1,155 @@
+.hero[data-v-b01b0c96] {
+    background: url(../img/carrousel-background.16cf9146.png);
+    background-size: 100% 100%
+}
+
+.q-carousel[data-v-b01b0c96] {
+    min-height: inherit;
+    min-width: inherit
+}
+
+#aovivo[data-v-b01b0c96] {
+    border-left: 3px solid #fff;
+    height: 49.8vw;
+    max-height: 80.8vh
+}
+
+#aovivo p[data-v-b01b0c96] {
+    font-size: 5vw
+}
+
+#vertical[data-v-b01b0c96] {
+    border-left: 3px solid #000;
+    font-size: 5vw;
+    height: 49.8vw;
+    max-height: 80.8vh
+}
+
+.vertical-text[data-v-b01b0c96] {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg)
+}
+
+.vertical-text2[data-v-b01b0c96],
+.vertical-text[data-v-b01b0c96] {
+    -webkit-text-orientation: mixed;
+    text-orientation: mixed;
+    writing-mode: vertical-rl
+}
+
+.projeto-header p[data-v-b01b0c96] {
+    color: #df71ff;
+    font-size: 3em
+}
+
+.projeto-header2 p[data-v-b01b0c96] {
+    color: #00d3de;
+    font-size: 3em
+}
+
+.projeto-left[data-v-b01b0c96] {
+    background-color: #8b50ff
+}
+
+.projeto-right[data-v-b01b0c96] {
+    background-color: #df71ff;
+    font-size: 1.4rem
+}
+
+.projeto-subheader[data-v-b01b0c96] {
+    color: #fff;
+    font-size: 3.5rem
+}
+
+.bluegreat[data-v-b01b0c96] {
+    color: #00d3de;
+    font-weight: 700;
+    text-shadow: 1px 1px #000
+}
+
+.bgpurple[data-v-b01b0c96],
+.mundo[data-v-b01b0c96],
+.projeto2[data-v-b01b0c96] {
+    background-color: #8b50ff
+}
+
+.purple[data-v-b01b0c96] {
+    color: #8b50ff
+}
+
+.eixos[data-v-b01b0c96] {
+    background-color: #df71ff
+}
+
+.color-primary[data-v-b01b0c96] {
+    color: #00d3de
+}
+
+.magenta[data-v-b01b0c96] {
+    color: #ff4aa1
+}
+
+.color-secondary[data-v-b01b0c96],
+.pink[data-v-b01b0c96] {
+    color: #df71ff
+}
+
+.bgpink[data-v-b01b0c96] {
+    background-color: #df71ff
+}
+
+.fill-text[data-v-b01b0c96] {
+    font-size: 1.5vw
+}
+
+.green[data-v-b01b0c96] {
+    color: green
+}
+
+#rounder[data-v-b01b0c96] {
+    background-color: #df71ff;
+    border-radius: 75px 75px;
+    padding: 35px;
+    text-align: center
+}
+
+.yellow[data-v-b01b0c96] {
+    color: #ffd433
+}
+
+.bgyellow[data-v-b01b0c96] {
+    background-color: #ffd433
+}
+
+#rounder2[data-v-b01b0c96] {
+    background-color: #e44d96;
+    border-radius: 75px 75px;
+    max-width: 20%;
+    padding: 20px;
+    text-align: center
+}
+
+#rounder3[data-v-b01b0c96] {
+    background-color: #fff;
+    border-radius: 75px 75px;
+    text-align: center
+}
+
+.bgmagenta[data-v-b01b0c96] {
+    background-color: #e44d96
+}
+
+.ultralarge[data-v-b01b0c96] {
+    font-size: 12rem;
+    line-height: 1
+}
+
+.ultralarge2[data-v-b01b0c96] {
+    font-size: 10rem;
+    line-height: 1
+}
+
+.mycard[data-v-b01b0c96] {
+    max-width: 250px;
+    min-width: 250px
+}
